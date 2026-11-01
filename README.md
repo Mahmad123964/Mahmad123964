@@ -1,4 +1,5 @@
 <div align="center"><img src="https://raw.githubusercontent.com/Mahmad123964/Mahmad123964/main/Neon%20Developer%20Portfolio%20Banner.png" alt="Muhammad Ahmad - Software Engineer & QA Automation Engineer" width="100%"/>
+<img src="https://raw.githubusercontent.com/Mahmad123964/Mahmad123964/main/about-life.svg?v=2" alt="What I Build and Outside the Code" width="100%"/>
 Muhammad Ahmad
 Software Engineer | QA Automation Engineer
 Building reliable software, modern web experiences, and automated quality pipelines.
